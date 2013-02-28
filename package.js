@@ -6,6 +6,6 @@ Package.on_use(function (api) {
   api.use('jquery', 'client');
   api.add_files([
     'jsonform/lib/jsonform.js'
-  ], 'client'
+  ], ['client']
   );
 });
