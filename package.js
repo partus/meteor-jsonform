@@ -5,7 +5,6 @@ Package.describe({
 Package.on_use(function (api) {
   api.use('jquery', 'client');
   api.add_files([
-    'deps/opt/ace/jsv.js',
     'jsonform/lib/jsonform.js'
   ], ['client']
   );
