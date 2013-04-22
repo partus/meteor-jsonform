@@ -1,3 +1,3 @@
 [submodule "jsonform"]
 	path = jsonform
-	url = git@github.com:joshfire/jsonform.git
+	url = https://github.com/joshfire/jsonform
