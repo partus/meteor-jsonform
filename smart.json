@@ -2,7 +2,7 @@
   "name": "jsonform",
   "description": "JSONform packaged for meteor with meteor-compatible usage ",
   "homepage": "https://github.com/partus/meteor-jsonform",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "partus",
   "git": "https://github.com/partus/meteor-jsonform.git"
 }
