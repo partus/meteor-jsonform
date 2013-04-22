@@ -1,7 +1,5 @@
 {
   "name": "jsonform",
-  "description": "underscore.string repackaged for Meteor",
-  "homepage": "https://github.com/possibilities/meteor-underscore-string",
-  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
-  "version": "2.2.0rc.1"
+  "description": "JSONform packaged for meteor with meteor-compatible usage",
+  "git": "https://github.com/partus/meteor-jsonform.git"
 }
