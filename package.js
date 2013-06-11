@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "RateIt - a modern, mobile-friendly, jQuery (star) rating plugin"
+  summary: "JSONform packaged for meteor with meteor-compatible usage"
 });
 
 Package.on_use(function (api) {
